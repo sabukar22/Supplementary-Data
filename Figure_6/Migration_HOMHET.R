@@ -1,11 +1,7 @@
-#setwd("D:/00_1st_Year_PhD/00_Manuscript_2/Data/JSQH176/DISPERSION/Dispersion_Migration")
-#setwd("D:/00_1st_Year_PhD/00_Manuscript_2/Data/JSQH176/DISPERSION/Dispersion_Migration")
-setwd("D:/00_1st_Year_PhD/00_Manuscript_2/Plots/DISPERSION")
-
 library(readxl)
 library(writexl)
 
-input_file <- "Control_HomHet_data.xlsx"
+input_file <- "Fig.6A_C_D_Cell-cell_disatnces.xlsx"
 sheet_names <- excel_sheets(input_file)
 filtered_data <- data.frame()
 
