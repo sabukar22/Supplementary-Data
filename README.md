@@ -1,3 +1,3 @@
 # Supplementary-Data
 
-Data and code associated with 'Live-imaging reveals Coordinated Cell Migration and Cardiac Fate Determination during Mammalian Gastrulation' preprint on biorxiv.
+Data and code associated with 'Early coordination of cell migration and cardiac fate determination during mammalian gastrulation.' article, published in The EMBO Journal.
